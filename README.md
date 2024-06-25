@@ -1,4 +1,4 @@
-# YouTube TabSwitch <img src="https://github.com/Upendra2003/TabSwitch/assets/96371563/b48e5517-ebf3-44e0-8e7e-00f8db998724" width="30px" alt="TabSwitch">
+# YouTube TabSwitch <img src="https://github.com/Upendra2003/TabSwitch/assets/96371563/ee02349e-209e-433e-a61c-22d285a8b585" width="30px" alt="TabSwitch">
 
 ## Description
 This Chrome extension automatically pauses YouTube videos when you switch tabs and resumes playback when you return.
